@@ -103,7 +103,9 @@
                     </image>
                     <docker>
                         <publishRegistry>
+                            <!--suppress UnresolvedMavenProperty -->
                             <username>${docker.user}</username>
+                            <!--suppress UnresolvedMavenProperty -->
                             <password>${docker.token}</password>
                             <url>https://index.docker.io/v1</url>
                         </publishRegistry>
