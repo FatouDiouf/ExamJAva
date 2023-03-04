@@ -99,7 +99,7 @@
                         </exclude>
                     </excludes>
                     <image>
-                        <name>ngorseck/${project.artifactId}:${project.version}</name>
+                        <name>diouff89@gmail.com/${project.artifactId}:${project.version}</name>
                     </image>
                     <docker>
                         <publishRegistry>
