@@ -115,9 +115,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>15</source>
-                </configuration>
+
             </plugin>
         </plugins>
 	</build>
